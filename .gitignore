@@ -1,0 +1,19 @@
+# Environnement virtuel (créé à la racine)
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
+share/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Éditeur / OS
+.vscode/
+.idea/
+.DS_Store
